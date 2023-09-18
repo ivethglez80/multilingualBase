@@ -1,0 +1,49 @@
+{
+        "nav.logoHome":"logo Home",
+        "nav.about": "about",
+        "nav.features": "features",
+        "nav.four": "four",
+        "nav.five": "five",
+        "nav.events": "events",
+        "nav..contact": "contact",
+
+        "home.h2": "Wedding Expo 2025",
+        "home.p": "Your gateway to perfectly planned weddings!",
+        "home.btn": "Register here",
+    
+    
+        "about.h2": "Learn from the experts and score great deals!",
+        "about.p": "Put together the most memorable wedding. Draw inspiration from our featured designers, caterers, stylists, and more. Book big deals and great packages.",
+    
+    
+        "features.h2": "Supplier Interaction",
+        "features.p": "Get to chat with hundreds of wedding vendors.",
+        "features.btn": "Learn more",
+    
+    
+        "four.h2": "Trend Forecast",
+        "four.p": "Know what's in and out from industry insiders.",
+        "four.btn": "Learn more",
+    
+    
+        "five.h2": "Discounts & Freebies",
+        "five.p": "Win prizes and enjoy special rates on selected services.",
+        "five.btn": "Learn more",
+    
+    
+        "events.h2": "Upcoming events",
+        "events.1h4": "BAKS Bridal Show",
+        "events.1p": "An Annual National Industry Event January 10, 2025, 9: 00 a.m. to 5: 00 p.m. Conference Hall A, National Event Hall",
+        "events.2h4": "Bridal Makeup Demo",
+        "events.2p": "An Annual National Industry Event January 11, 2025, 9: 00 a.m. to 5: 00 p.m. Conference Hall A, National Event Hall",
+        "events.3h4": "LUV Wedding Caravan",
+        "events.3p": "An Annual National Industry Event January 12, 2025, 9: 00 a.m. to 5: 00 p.m. Conference Hall A, National Event Hall",
+    
+    
+        "contact.1h2": "Event details",
+        "contact.1p": "Any City Convention Center, Hall A 123 Anywhere St., Any City",
+        "contact.2p": "January 10 - 15, 2025 9 AM - 5 PM",
+        "contact.2h2": "Get in touch",
+        "contact.3p": "hello@reallygreatsite.com 123-456-7890"
+    
+}

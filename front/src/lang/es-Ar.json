@@ -1,0 +1,43 @@
+{
+    "nav.logoHome": "Inicio",
+    "nav.about": "Acerca de",
+    "nav.features": "Características",
+    "nav.four": "Cuatro",
+    "nav.five": "Cinco",
+    "nav.events": "Eventos",
+    "nav.contact": "Contacto",
+    
+    "home.h2": "Expo de Bodas 2025",
+    "home.p": "¡Tu puerta de entrada a bodas perfectamente planificadas!",
+    "home.btn": "REGÍSTRATE AQUÍ",
+    
+    "about.h2": "Aprende de los expertos y obtén grandes ofertas!",
+    "about.p": "Organiza la boda más memorable. Inspírate en nuestros diseñadores destacados, proveedores de catering, estilistas y más. Reserva grandes ofertas y paquetes increíbles.",
+    
+    "features.h2": "Interacción con proveedores",
+    "features.p": "Chatea con cientos de proveedores de bodas.",
+    "features.btn": "Más información",
+    
+    "four.h2": "Tendencias",
+    "four.p": "Descubre lo que está de moda y lo que no, según expertos de la industria.",
+    "four.btn": "Más información",
+    
+    "five.h2": "Descuentos y regalos",
+    "five.p": "Gana premios y disfruta de tarifas especiales en servicios seleccionados.",
+    "five.btn": "Más información",
+    
+    "events.h2": "Próximos eventos",
+    "events.1h4": "BAKS Bridal Show",
+    "events.1p": "Evento anual de la industria nacional, 10 de enero de 2025, de 9:00 a. m. a 5:00 p. m., Sala de conferencias A, Salón de eventos nacionales.",
+    "events.2h4": "Demostración de maquillaje nupcial",
+    "events.2p": "Evento anual de la industria nacional, 11 de enero de 2025, de 9:00 a. m. a 5:00 p. m., Sala de conferencias A, Salón de eventos nacionales.",
+    "events.3h4": "Caravana de bodas LUV",
+    "events.3p": "Evento anual de la industria nacional, 12 de enero de 2025, de 9:00 a. m. a 5:00 p. m., Sala de conferencias A, Salón de eventos nacionales.",
+    
+    "contact.1h2": "Detalles del evento",
+    "contact.1p": "Centro de convenciones de Any City, Sala A, 123 Anywhere St., Any City.",
+    "contact.2p": "10 al 15 de enero de 2025, 9 a. m. - 5 p. m.",
+    "contact.2h2": "Contáctanos",
+    "contact.3p": "hello@reallygreatsite.com, 123-456-7890"
+}
+
