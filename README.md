@@ -4,11 +4,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.ibb.co/7zZtg8R/eng-i18next.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.ibb.co/7zZtg8R/eng-i18next.png" alt="project-screenshot" width="600" height="300/">
 
-<img src="https://i.ibb.co/r0y6mbN/localstorage-i18next.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.ibb.co/r0y6mbN/localstorage-i18next.png" alt="project-screenshot" width="600" height="300/">
 
-<img src="https://i.ibb.co/sv9zwNM/esp-i18next.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.ibb.co/sv9zwNM/esp-i18next.png" alt="project-screenshot" width="600" height="300/">
 
   
   
